@@ -1,7 +1,20 @@
-- 👋 Hi, I’m @AADESH-SENPAI
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Google
+👋 Hi, I'm Aadesh Kadam
+💡 Curious mind | 🤖 AI Enthusiast | 💻 Passionate Programmer
+
+I'm an engineering student with a deep interest in Artificial Intelligence, machine learning, and software development. I love exploring new tech, building cool projects, and continuously expanding my knowledge.
+
+🔍 Currently learning: AI & Python
+
+🚀 Exploring: Open-source projects and real-world applications
+
+📚 Always curious about what’s next in tech
+
+🌱 Learning never stops — I believe growth comes from curiosity
+
+“Code. Learn. Repeat.”
+
+📫 Let’s connect:  |  (replace with your actual links)
+
 - 📫 How to reach me aadeshsenpai@gmail.com
 
 <!---
