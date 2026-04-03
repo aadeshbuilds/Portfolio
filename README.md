@@ -1,23 +1,18 @@
-👋 Hi, I'm Aadesh Kadam
-💡 Curious mind | 🤖 AI Enthusiast | 💻 Passionate Programmer
+Hi, I'm Aadesh 👋
 
-I'm an engineering student with a deep interest in Artificial Intelligence, machine learning, and software development. I love exploring new tech, building cool projects, and continuously expanding my knowledge.
+🚀 Currently building: **AI SQL Blind Spot Coach**
+→ An intelligent system that analyzes SQL queries, detects mistakes, and suggests improvements
 
-🔍 Currently learning: AI & Python
+🧠 Focus Areas:
 
-🚀 Exploring: Open-source projects and real-world applications
+* Machine Learning (Regression, Classification)
+* Applied AI systems & real-world problem solving
 
-📚 Always curious about what’s next in tech
+💻 Tech Stack:
+Python | SQL | Machine Learning
 
-🌱 Learning never stops — I believe growth comes from curiosity
+📌 Goal:
+To become a skilled ML Engineer by building practical, production-level AI systems — not just learning theory
 
-“Code. Learn. Repeat.”
-
-📫 Let’s connect:  |  (replace with your actual links)
-
-- 📫 How to reach me aadeshsenpai@gmail.com
-
-<!---
-AADESH-SENPAI/AADESH-SENPAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📈 Current Focus:
+Turning SQL Coach into a complete end-to-end ML product
