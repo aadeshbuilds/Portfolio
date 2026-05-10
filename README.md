@@ -65,11 +65,13 @@ When I'm not coding, I'm reading Tolstoy, watching JJK, or writing under the pen
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aadeshbuilds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=79c0ff&count_private=true" alt="Aadesh's GitHub Stats" />
-
 <img src="https://streak-stats.demolab.com?user=aadeshbuilds&theme=tokyonight&hide_border=true&background=0d1117&ring=79c0ff&fire=79c0ff&currStreakLabel=79c0ff" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadeshbuilds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&langs_count=6" alt="Top Languages" />
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=aadeshbuilds&style=flat-square&color=79c0ff&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/aadeshbuilds?style=flat-square&color=79c0ff&labelColor=0d1117&label=Followers)
+![Stars](https://img.shields.io/github/stars/aadeshbuilds?style=flat-square&color=79c0ff&labelColor=0d1117&label=Total+Stars)
 
 </div>
 
