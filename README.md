@@ -20,7 +20,7 @@
 
 ## について &nbsp;·&nbsp; About
 
-19-year-old CSE student specialising in **AI/ML** at M. S. Ramaiah University of Applied Sciences, Bengaluru.  
+20-year-old CSE student specialising in **AI/ML** at M. S. Ramaiah University of Applied Sciences, Bengaluru.  
 Building a path toward working as an AI/ML engineer in **Japan** — targeting Mercari, LINE, Google Japan, and Preferred Networks.  
 Currently grinding **Machine Learning**, **DSA**, and **Japanese** simultaneously.  
 When I'm not coding, I'm reading Tolstoy, watching JJK, or writing under the pen name **Zehr Quanta**.
