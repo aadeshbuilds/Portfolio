@@ -65,11 +65,11 @@ When I'm not coding, I'm reading Tolstoy, watching JJK, or writing under the pen
 
 <div align="center">
 
-![Aadesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadeshbuilds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=79c0ff)
+<img src="https://github-readme-stats.vercel.app/api?username=aadeshbuilds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=79c0ff&count_private=true" alt="Aadesh's GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aadeshbuilds&theme=tokyonight&hide_border=true&background=0d1117)
+<img src="https://streak-stats.demolab.com?user=aadeshbuilds&theme=tokyonight&hide_border=true&background=0d1117&ring=79c0ff&fire=79c0ff&currStreakLabel=79c0ff" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadeshbuilds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadeshbuilds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&langs_count=6" alt="Top Languages" />
 
 </div>
 
