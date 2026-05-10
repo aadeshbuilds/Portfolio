@@ -67,12 +67,6 @@ When I'm not coding, I'm reading Tolstoy, watching JJK, or writing under the pen
 
 <img src="https://streak-stats.demolab.com?user=aadeshbuilds&theme=tokyonight&hide_border=true&background=0d1117&ring=79c0ff&fire=79c0ff&currStreakLabel=79c0ff" alt="GitHub Streak" />
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=aadeshbuilds&style=flat-square&color=79c0ff&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/aadeshbuilds?style=flat-square&color=79c0ff&labelColor=0d1117&label=Followers)
-![Stars](https://img.shields.io/github/stars/aadeshbuilds?style=flat-square&color=79c0ff&labelColor=0d1117&label=Total+Stars)
-
 </div>
 
 ---
