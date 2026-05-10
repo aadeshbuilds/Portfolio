@@ -1,106 +1,81 @@
 <div align="center">
 
-# Aadesh · `AADESH-SENPAI`
+<!-- Japanese header -->
+<sub>ソフトウェアエンジニア · AI / ML</sub>
 
-**AI/ML Engineer in Progress** · CSE @ M.S. Ramaiah University of Applied Sciences (2028)
+# Aadesh
+<sup>— Zehr Quanta —</sup>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logoColor=white)](https://xgboost.readthedocs.io)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org)
+*CSE student · AI/ML engineer in the making · Building toward Japan 🇯🇵 · JLPT N5 → N1*
+
+![Location](https://img.shields.io/badge/📍_Bengaluru,_India-E1F5EE?style=flat-square&color=0F6E56&labelColor=E1F5EE)
+![University](https://img.shields.io/badge/🎓_RUAS_·_2028-EEEDFE?style=flat-square&color=534AB7&labelColor=EEEDFE)
+![Stack](https://img.shields.io/badge/🐍_Python_·_ML-E6F1FB?style=flat-square&color=185FA5&labelColor=E6F1FB)
+![JLPT](https://img.shields.io/badge/🈳_JLPT_N5_·_Jul_2025-FAEEDA?style=flat-square&color=854F0B&labelColor=FAEEDA)
+![Goal](https://img.shields.io/badge/🎯_Japan_·_2028+-FAECE7?style=flat-square&color=993C1D&labelColor=FAECE7)
 
 </div>
 
 ---
 
-## About
+## について &nbsp;·&nbsp; About
 
-I'm a second-year AI/ML-focused CSE student building practical, production-ready ML systems — not just studying theory. My goal is to become a top-tier ML engineer and eventually work in Japan at companies like **Mercari**, **Preferred Networks**, or **Google Japan**.
-
-Currently focused on:
-- Supervised learning pipelines (Decision Trees, XGBoost, Random Forest)
-- Feature engineering & Kaggle competitions
-- The full Scientific Python stack: NumPy → Pandas → Matplotlib → Scikit-learn → PyTorch
-- JLPT N5 Japanese (exam: July 2025) — working toward N3 for Japan career readiness
+19-year-old CSE student specialising in **AI/ML** at M. S. Ramaiah University of Applied Sciences, Bengaluru.  
+Building a path toward working as an AI/ML engineer in **Japan** — targeting Mercari, LINE, Google Japan, and Preferred Networks.  
+Currently grinding **Machine Learning**, **DSA**, and **Japanese** simultaneously.  
+When I'm not coding, I'm reading Tolstoy, watching JJK, or writing under the pen name **Zehr Quanta**.
 
 ---
 
-## 🚀 Featured Projects
+## スキル &nbsp;·&nbsp; Skills
 
-### [AI SQL Blind Spot Coach](https://github.com/AADESH-SENPAI)
-> An intelligent system that analyzes SQL queries, detects mistakes, and suggests targeted improvements.
+**Core**  
+`Python` `NumPy` `Pandas` `scikit-learn`
 
-- Schema explorer panel + live SQL editor + AI-generated weekly challenges
-- Built to help developers identify blind spots they don't know they have
-- Stack: Python · SQL · Claude API · React
+**ML Models**  
+`Linear Regression` `Logistic Regression` `Decision Trees` `Random Forest` `KNN`
 
----
+**Ensemble & Boosting**  
+`XGBoost` `LightGBM` `CatBoost` `AdaBoost` `GBDT` `Bagging` `Boosting`
 
-### Spaceship Titanic — Kaggle Pipeline
-> End-to-end ML competition pipeline.
-
-- Custom feature engineering on grouped passenger data
-- XGBoost + Random Forest ensemble with hyperparameter tuning
-- Evaluation: accuracy, F1, confusion matrix analysis
-- Stack: Python · Scikit-learn · XGBoost · Pandas
+**Tuning & Evaluation**  
+`Hyperparameter Tuning` `Model Evaluation` `Cross-Validation`
 
 ---
 
-### JLPT N5 Kanji Dojo
-> Interactive browser-based study app with 80 kanji, 5 quiz modes, and a gamified XP system.
+## プロジェクト &nbsp;·&nbsp; Projects
 
-- Spaced repetition logic, on/kun-yomi drills, stroke order reference
-- Stack: Vanilla JS · HTML/CSS
-
----
-
-## 🧠 ML Knowledge Map
-
-```
-Supervised Learning
-├── Linear Regression (from scratch, NumPy + gradient descent)
-├── Logistic Regression + confusion matrix analysis
-├── Decision Trees (Gini impurity, information gain, pruning)
-└── XGBoost (second-order Taylor expansion, split gain, leaf weights)
-
-Unsupervised Learning
-├── K-Means Clustering
-├── Hierarchical Clustering
-└── LDA (Linear Discriminant Analysis)
-
-Evaluation
-└── Accuracy · Precision · Recall · F1 · ROC-AUC
-
-Pipeline Skills
-└── Feature engineering · data cleaning · cross-validation · hyperparameter tuning
-```
+| Project | Description | Stack |
+|---|---|---|
+| 📈 **[finance-analyzer](https://github.com/aadeshbuilds/finance-analyzer)** *(WIP)* | First project — financial data analysis with Python & ML | `Python` `ML` |
+| 🗄️ **AI SQL Blind Spot Coach** *(Building)* | SQL challenge web app with schema panel, editor & weekly difficulty tiers | `Web` `SQL` `AI` |
 
 ---
 
-## 📚 Currently Learning
+## 目標 &nbsp;·&nbsp; Goals & Roadmap
 
-| Area | Status |
-|------|--------|
-| NumPy (Scientific Python Stack) | 🔄 Active |
-| XGBoost internals | ✅ Complete |
-| JLPT N5 Japanese | 🔄 Active — exam July 2025 |
-| DSA for Big Tech (Japan pipeline) | 🗓️ Starting after 4th semester |
+- 🈳 &nbsp;**JLPT N5** — July 2026 · Grinding kanji, vocab & listening every day  
+- 🤖 &nbsp;**ML Mastery** — Regression → Deep Learning, one algorithm at a time  
+- 💻 &nbsp;**DSA** — Starting end of 4th sem, targeting Japan hiring pipelines  
+- ✈️ &nbsp;**Japan 🇯🇵** — Target: Mercari · LINE · Google Japan · Preferred Networks · 2028+
 
 ---
 
-## 🌐 Goal
+## 統計 &nbsp;·&nbsp; GitHub Stats
 
-> Build production-level AI systems. Work in Japan. Make it count.
+<div align="center">
 
-Engineering toward roles at **Mercari · LINE · Google Japan · Preferred Networks**
+![Aadesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadeshbuilds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=79c0ff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aadeshbuilds&theme=tokyonight&hide_border=true&background=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadeshbuilds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff)
+
+</div>
 
 ---
 
 <div align="center">
-
-*"Not just learning theory — shipping systems."*
-
-📍 Bengaluru, India &nbsp;·&nbsp; 🎯 Japan Tech &nbsp;·&nbsp; ✍️ Pen name: Zehr Quanta
-
+<sub>github.com/aadeshbuilds</sub><br>
+<sub>「 継続は力なり — Persistence is power 」</sub>
 </div>
